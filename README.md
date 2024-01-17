@@ -28,7 +28,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 - style(스타일): 코드의 의미에 영향을 미치지 않는 변경 사항 (예: 공백, 서식, 누락된 세미콜론).
 
-test(테스트): 테스트 추가 또는 수정 및 테스트 관련 변경 사항.
+- test(테스트): 테스트 추가 또는 수정 및 테스트 관련 변경 사항.
 
 ## Getting Started
 
